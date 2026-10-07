@@ -1,0 +1,16 @@
+{
+  "username": "hieu98",
+  "layout": "classic",
+  "theme": "infernal",
+  "title": "auto",
+  "activity": "arise",
+  "icons": "rune",
+  "motion": "full",
+  "timezone": "Asia/Bangkok",
+  "arsenal": [
+    "android",
+    "androidstudio",
+    "jetpackcompose",
+    "googleplay"
+  ]
+}
