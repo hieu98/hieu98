@@ -1,16 +1,10 @@
 {
   "username": "hieu98",
-  "layout": "classic",
+  "layout": "bento",
   "theme": "infernal",
   "title": "auto",
-  "activity": "arise",
+  "activity": "raid",
   "icons": "rune",
-  "motion": "full",
-  "timezone": "Asia/Bangkok",
-  "arsenal": [
-    "android",
-    "androidstudio",
-    "jetpackcompose",
-    "googleplay"
-  ]
+  "motion": "none",
+  "timezone": "Asia/Bangkok"
 }
