@@ -3,7 +3,7 @@
   "level": 6,
   "overall": "B",
   "overallPercentile": 0.8477532763841543,
-  "layout": "classic",
+  "layout": "bento",
   "class": {
     "name": "Holy Knight",
     "element": "Light",
@@ -194,5 +194,5 @@
       "contribute"
     ]
   },
-  "syncedAt": "2026-10-07T19:53:48.353Z"
+  "syncedAt": "2026-10-07T20:01:24.748Z"
 }
